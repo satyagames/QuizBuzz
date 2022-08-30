@@ -1,4 +1,4 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/satyagames/QuizBuzz?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/satyagames/QuizBuzz?style=social)https://img.shields.io/github/watchers/satyagames/QuizBuzz?style=social
 
 
 
